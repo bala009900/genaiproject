@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Student Query Chatbot",
+  "description": "An AI-powered academic query chatbot for student support covering syllabus, exams, attendance, faculty, and college policies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

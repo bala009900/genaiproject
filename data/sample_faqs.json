@@ -1,0 +1,222 @@
+[
+  {
+    "id": "faq-att-001",
+    "category": "Attendance Policies",
+    "question": "What is the minimum attendance required to appear for semester examinations?",
+    "answer": "A minimum of 75% aggregate attendance across all registered courses in a semester is strictly mandatory to be eligible to appear for the end-semester examinations. Students having attendance between 65% and 74.9% may apply for condonation on valid medical or institutional representation grounds, subject to Principal approval and condonation fee payment. Students with less than 65% attendance will be detained and must repeat the semester.",
+    "keywords": ["attendance", "minimum", "75%", "condonation", "detention", "eligible", "exam eligibility", "leave"],
+    "teluguQuestion": "సెమిస్టర్ పరీక్షలు రాయడానికి కనీస హాజరు ఎంత ఉండాలి?",
+    "teluguAnswer": "సెమిస్టర్ పరీక్షలకు హాజరు కావడానికి కనీసం 75% సగటు హాజరు తప్పనిసరి. 65% నుండి 74.9% మధ్య ఉన్న విద్యార్థులు చెల్లుబాటు అయ్యే మెడికల్ సర్టిఫికెట్ లేదా ప్రిన్సిపాల్ అనుమతితో మినహాయింపు (condonation) పొందవచ్చు. 65% కంటే తక్కువ ఉంటే డిటెన్షన్ ఎదుర్కోవలసి ఉంటుంది.",
+    "verified": true,
+    "lastUpdated": "2026-08-15"
+  },
+  {
+    "id": "faq-att-002",
+    "category": "Attendance Policies",
+    "question": "How do I apply for medical leave or duty leave (OD)?",
+    "answer": "For medical leave, submit a written application along with an authorized government or approved hospital medical certificate to your Class In-Charge within 3 working days of returning to college. For Duty Leave (On-Duty/OD) for participating in hackathons, sports, or technical conferences, obtain prior endorsement from the Faculty Coordinator and HOD before attending the event.",
+    "keywords": ["medical leave", "duty leave", "on duty", "od", "sick leave", "hospital certificate", "sports leave"],
+    "teluguQuestion": "మెడికల్ లీవ్ లేదా డ్యూటీ లీవ్ (OD) ఎలా దరఖాస్తు చేసుకోవాలి?",
+    "teluguAnswer": "మెడికల్ లీవ్ కోసం, తిరిగి వచ్చిన 3 పని దినాలలో అధీకృత మెడికల్ సర్టిఫికేట్‌తో క్లాస్ ఇన్-ఛార్జ్‌కు దరఖాస్తు చేయండి. హ్యాకథాన్లు లేదా స్పోర్ట్స్ కోసం ముందస్తుగా HOD మరియు ఫ్యాకల్టీ అనుమతితో డ్యూటీ లీవ్ పొందవచ్చు.",
+    "verified": true,
+    "lastUpdated": "2026-08-15"
+  },
+  {
+    "id": "faq-exam-001",
+    "category": "Examinations & Grading",
+    "question": "When are the mid-term and end-semester examinations scheduled?",
+    "answer": "As per the 2026-2027 Academic Calendar: Mid-Term I examinations are scheduled in the 8th week of the semester, and Mid-Term II in the 15th week. Semester End Practical Examinations occur in the 17th week, followed by End-Semester Theory Examinations starting from the 18th week. Exact dates and timetables are published on the college examination portal two weeks prior.",
+    "keywords": ["exam schedule", "mid term", "end semester", "examination dates", "timetable", "sem exam", "dates"],
+    "teluguQuestion": "మిడ్-టర్మ్ మరియు ఎండ్-సెమిస్టర్ పరీక్షలు ఎప్పుడు జరుగుతాయి?",
+    "teluguAnswer": "అకడమిక్ క్యాలెండర్ ప్రకారం: మిడ్-1 ఎనిమిదవ వారంలో, మిడ్-2 పదిహేనవ వారంలో జరుగుతాయి. సెమిస్టర్ చివర ప్రాక్టికల్స్ 17వ వారంలో, థియరీ పరీక్షలు 18వ వారంలో ప్రారంభమవుతాయి.",
+    "verified": true,
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "faq-exam-002",
+    "category": "Examinations & Grading",
+    "question": "What is the grading system and minimum passing marks?",
+    "answer": "The institution follows a 10-point Absolute/Relative Grading Scale (O: 10, A+: 9, A: 8, B+: 7, B: 6, C: 5, F: 0/Fail). To pass any theory course, a student must secure a minimum of 35% in the End-Semester Examination and an overall aggregate of 40% (Continuous Internal Evaluation + Semester End Exam). In practical courses, minimum 50% combined score is required.",
+    "keywords": ["grading system", "passing marks", "cgpa", "sgpa", "grades", "pass percentage", "fail criteria"],
+    "teluguQuestion": "గ్రేడింగ్ విధానం మరియు ఉత్తీర్ణత సాధించడానికి కనీస మార్కులు ఎంత?",
+    "teluguAnswer": "కళాశాలలో 10-పాయింట్ గ్రేడింగ్ స్కేల్ (O, A+, A, B+, B, C, F) అమలులో ఉంది. ఉత్తీర్ణత కోసం సెమిస్టర్ ఎండ్ ఎగ్జామ్‌లో కనీసం 35% మరియు ఇంటర్నల్స్‌తో కలిపి మొత్తం 40% మార్కులు సాధించాలి.",
+    "verified": true,
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "faq-exam-003",
+    "category": "Examinations & Grading",
+    "question": "What is the procedure for paper revaluation and recounting?",
+    "answer": "Students dissatisfied with their evaluation can apply for revaluation or recounting within 10 days of result announcement through the Student ERP portal. Revaluation fee is Rs. 1,000 per theory subject and recounting is Rs. 200 per subject. In revaluation, if the variation is greater than 15% between initial and second valuation, the script is referred to a third evaluator.",
+    "keywords": ["revaluation", "recounting", "challenge evaluation", "marks correction", "result dispute", "reval fee"],
+    "teluguQuestion": "రీవాల్యుయేషన్ మరియు రీకౌంటింగ్ ప్రక్రియ ఏమిటి?",
+    "teluguAnswer": "ఫలితాలు వెలువడిన 10 రోజుల్లోగా స్టూడెంట్ ఈఆర్‌పీ పోర్టల్ ద్వారా రీవాల్యుయేషన్‌కు దరఖాస్తు చేసుకోవచ్చు. రీవాల్యుయేషన్ ఫీజు సబ్జెక్టుకు రూ. 1,000 మరియు రీకౌంటింగ్ రూ. 200.",
+    "verified": true,
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "faq-exam-004",
+    "category": "Examinations & Grading",
+    "question": "How and when can I collect my examination hall ticket?",
+    "answer": "Hall tickets are released online on the College ERP portal 5 days before the commencement of exams. Students must clear any pending tuition/hostel dues and have verified attendance (>75%). Download, print on an A4 sheet, and get it stamped by the Head of Department. Stamped hall tickets and college ID cards are mandatory inside examination halls.",
+    "keywords": ["hall ticket", "admit card", "exam slip", "download hall ticket", "dues clearance"],
+    "teluguQuestion": "పరీక్షల హాల్ టికెట్ ఎలా పొందాలి?",
+    "teluguAnswer": "పరీక్షలకు 5 రోజుల ముందు కాలేజీ ERP పోర్టల్ నుండి హాల్ టికెట్ డౌన్‌లోడ్ చేసుకోవచ్చు. కాలేజీ బకాయిలు మరియు కనీస హాజరు ఉండాలి. ప్రింట్ తీసుకుని HOD వద్ద సంతకం/స్టాంప్ వేయించుకోవాలి.",
+    "verified": true,
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "faq-acad-001",
+    "category": "Courses & Curriculum",
+    "question": "What are the total credit requirements for B.Tech degree completion?",
+    "answer": "For regular 4-year B.Tech students (Regulations R23/R24), a total of 160 academic credits is required across 8 semesters. Lateral Entry students joining in the second year must complete 120 credits. For students opting for an Honors or Minor degree, an additional 18-20 credits through prescribed MOOCs (NPTEL/Coursera) or specialized departmental electives must be earned with a minimum CGPA of 7.5.",
+    "keywords": ["credits", "degree requirements", "btech credits", "160 credits", "honors degree", "minor degree", "lateral entry"],
+    "teluguQuestion": "బి.టెక్ డిగ్రీ పూర్తి కావడానికి మొత్తం ఎన్ని క్రెడిట్స్ కావాలి?",
+    "teluguAnswer": "రెగ్యులర్ 4 సంవత్సరాల బి.టెక్ కోసం మొత్తం 160 క్రెడిట్స్ అవసరం. లేటరల్ ఎంట్రీ విద్యార్థులకు 120 క్రెడిట్స్. హానర్స్ లేదా మైనర్ డిగ్రీ కావాలంటే అదనంగా 18-20 క్రెడిట్స్ సంపాదించాలి.",
+    "verified": true,
+    "lastUpdated": "2026-08-20"
+  },
+  {
+    "id": "faq-acad-002",
+    "category": "Courses & Curriculum",
+    "question": "What undergraduate programs and specializations are offered?",
+    "answer": "The college offers Bachelor of Technology (B.Tech) in: Computer Science & Engineering (CSE), CSE (Artificial Intelligence & Machine Learning - CSM), CSE (Data Science - CSD), Information Technology (IT), Electronics & Communication Engineering (ECE), Electrical & Electronics Engineering (EEE), Mechanical Engineering (ME), and Civil Engineering (CE). Postgraduate M.Tech and MCA programs are also available.",
+    "keywords": ["programs", "branches", "departments", "specializations", "courses offered", "cse", "csm", "ece"],
+    "teluguQuestion": "కళాశాలలో ఏ బి.టెక్ బ్రాంచీలు మరియు కోర్సులు అందుబాటులో ఉన్నాయి?",
+    "teluguAnswer": "CSE, CSE (AI & ML), CSE (డేటా సైన్స్), IT, ECE, EEE, మెకానికల్ మరియు సివిల్ ఇంజనీరింగ్ బ్రాంచీలు అందుబాటులో ఉన్నాయి.",
+    "verified": true,
+    "lastUpdated": "2026-08-20"
+  },
+  {
+    "id": "faq-acad-003",
+    "category": "Courses & Curriculum",
+    "question": "How do I choose and register for Professional and Open Electives?",
+    "answer": "Elective registration opens on the Student ERP portal during the final week of the preceding semester. Students can select one Professional Elective from their branch and one Open Elective from inter-disciplinary pools. Seats are allocated on a first-come, first-served basis with a maximum cap of 60 students per section.",
+    "keywords": ["elective registration", "open elective", "professional elective", "course selection", "erp registration"],
+    "teluguQuestion": "ఎలక్టివ్ సబ్జెక్టులను ఎలా నమోదు చేసుకోవాలి?",
+    "teluguAnswer": "మునుపటి సెమిస్టర్ చివరి వారంలో ఈఆర్‌పీ పోర్టల్ ద్వారా ఎలక్టివ్స్ రిజిస్ట్రేషన్ ప్రారంభమవుతుంది. సీట్లు మొదట వచ్చిన వారికి మొదట ప్రాతిపదికన కేటాయించబడతాయి.",
+    "verified": true,
+    "lastUpdated": "2026-08-20"
+  },
+  {
+    "id": "faq-syl-001",
+    "category": "Syllabus & Academics",
+    "question": "Where can I download the complete B.Tech syllabus and course structure?",
+    "answer": "The official curriculum booklets, detailed unit-wise syllabus, and textbook recommendations for all branches and regulations are available on the College Academics page under 'Curriculum & Syllabi' (URL: /academics/syllabus). Department library and digital repositories also provide printed reference copies.",
+    "keywords": ["syllabus", "course structure", "curriculum download", "subjects", "textbooks", "units"],
+    "teluguQuestion": "బి.టెక్ సిలబస్ మరియు కోర్సు వివరాలు ఎక్కడ డౌన్‌లోడ్ చేసుకోవచ్చు?",
+    "teluguAnswer": "కళాశాల అధికారిక అకడమిక్స్ పోర్టల్‌లో 'Curriculum & Syllabi' విభాగంలో మొత్తం సిలబస్ పీడీఎఫ్ రూపంలో లభిస్తుంది.",
+    "verified": true,
+    "lastUpdated": "2026-08-20"
+  },
+  {
+    "id": "faq-syl-002",
+    "category": "Syllabus & Academics",
+    "question": "What is the academic calendar schedule and semester duration?",
+    "answer": "Each semester spans 16 weeks of direct instructional classes followed by 2 weeks of preparatory and examination schedule. The odd semesters run from July to November, and the even semesters run from December to April. Annual summer internship programs take place in May and June.",
+    "keywords": ["academic calendar", "semester duration", "working days", "vacation", "semester start", "instruction days"],
+    "teluguQuestion": "అకడమిక్ క్యాలెండర్ మరియు సెమిస్టర్ సమయ పరిమితి ఎంత?",
+    "teluguAnswer": "ప్రతి సెమిస్టర్ 16 వారాల తరగతులు మరియు 2 వారాల పరీక్షల కాలాన్ని కలిగి ఉంటుంది. బేసి సెమిస్టర్లు జూలై నుండి నవంబర్ వరకు, సరి సెమిస్టర్లు డిసెంబర్ నుండి ఏప్రిల్ వరకు ఉంటాయి.",
+    "verified": true,
+    "lastUpdated": "2026-08-20"
+  },
+  {
+    "id": "faq-lab-001",
+    "category": "Assignments & Labs",
+    "question": "What are the guidelines for laboratory records and internal assessment?",
+    "answer": "Laboratory work is evaluated through Continuous Internal Assessment (CIE: 40 marks) and Semester End Practical Examination (SEE: 60 marks). For CIE: 15 marks are awarded for day-to-day experiment execution, 10 marks for timely record submission, 5 marks for viva voce, and 10 marks for internal lab test. Late submission of lab records leads to a deduction of 2 marks per week.",
+    "keywords": ["lab guidelines", "lab record", "internal lab exam", "cie marks", "practical exam", "viva marks"],
+    "teluguQuestion": "ల్యాబ్ రికార్డులు మరియు ఇంటర్నల్ మార్కుల నిబంధనలు ఏమిటి?",
+    "teluguAnswer": "ల్యాబ్ వర్క్ 40 మార్కుల ఇంటర్నల్ మరియు 60 మార్కుల ఎక్స్‌టర్నల్ పరీక్షతో అంచనా వేయబడుతుంది. రోజువారీ పనికి 15, రికార్డుకు 10, వైవాకు 5, ఇంటర్నల్ టెస్ట్‌కు 10 మార్కులు కేటాయించబడతాయి.",
+    "verified": true,
+    "lastUpdated": "2026-09-05"
+  },
+  {
+    "id": "faq-lab-002",
+    "category": "Assignments & Labs",
+    "question": "What are the rules regarding assignment submission and plagiarism?",
+    "answer": "All assignments must be submitted through the College LMS (Canvas/Moodle portal) before the announced deadline. Submissions undergo automated plagiarism detection using Turnitin. Submissions with a similarity score exceeding 15% (excluding citations and code syntax templates) will be rejected and awarded zero marks.",
+    "keywords": ["assignment submission", "plagiarism", "turnitin", "lms", "homework", "late submission"],
+    "teluguQuestion": "అసైన్‌మెంట్ సమర్పణ మరియు ప్లాజియరిజం నియమాలు ఏమిటి?",
+    "teluguAnswer": "అన్ని అసైన్‌మెంట్లు కాలేజీ ఎల్ఎమ్ఎస్ పోర్టల్ ద్వారా గడువులోగా సమర్పించాలి. 15% కంటే ఎక్కువ కాపీ లేదా ప్లాజియరిజం ఉంటే తిరస్కరించబడుతుంది.",
+    "verified": true,
+    "lastUpdated": "2026-09-05"
+  },
+  {
+    "id": "faq-fac-001",
+    "category": "Faculty & Departments",
+    "question": "Who are the Department Heads and how can I schedule a meeting?",
+    "answer": "Department HODs are available in their department administrative offices from 3:30 PM to 5:00 PM on all working days. HOD Directory: CSE & CSM: Prof. Dr. K. Ramanathan (Room CS-201, hodec@college.edu); ECE: Prof. Dr. S. Radhika (Room EC-105); Mechanical: Prof. Dr. V. Murthy (Room ME-102); First Year Sciences: Dr. M. Sunitha (Room BS-101). Prior appointment via department email or HOD executive assistant is advised.",
+    "keywords": ["hod", "department head", "faculty meeting", "office hours", "contact hod", "appointments"],
+    "teluguQuestion": "డిపార్ట్‌మెంట్ హెడ్స్ ఎవరు మరియు వారిని ఎలా కలవవచ్చు?",
+    "teluguAnswer": "HODలు ప్రతి పని దినంలో మధ్యాహ్నం 3:30 నుండి 5:00 వరకు అందుబాటులో ఉంటారు. CSE HOD రూమ్ CS-201 లో ఉంటారు. ముందస్తు అపాయింట్‌మెంట్ తీసుకోవడం మంచిది.",
+    "verified": true,
+    "lastUpdated": "2026-09-10"
+  },
+  {
+    "id": "faq-fac-002",
+    "category": "Faculty & Departments",
+    "question": "What is the Faculty Mentor / Proctor system?",
+    "answer": "Every student is assigned a dedicated Faculty Mentor for their 4-year tenure upon admission (1 mentor per 20 students). Mentors conduct bi-weekly counseling sessions to monitor academic performance, attendance, career goals, and personal wellbeing. Students can find their assigned mentor's name and contact number on their Student ERP dashboard.",
+    "keywords": ["mentor", "proctor", "faculty advisor", "counselor", "student counseling"],
+    "teluguQuestion": "ఫ్యాకల్టీ మెంటర్ / ప్రొక్టర్ విధానం అంటే ఏమిటి?",
+    "teluguAnswer": "ప్రతి 20 మంది విద్యార్థులకు ఒక ఫ్యాకల్టీ మెంటర్ కేటాయించబడతారు. వారు మీ హాజరు, అకడమిక్ ప్రగతి మరియు సమస్యల పరిష్కారంలో మార్గనిర్దేశం చేస్తారు.",
+    "verified": true,
+    "lastUpdated": "2026-09-10"
+  },
+  {
+    "id": "faq-fac-003",
+    "category": "College Facilities & Support",
+    "question": "What are the Central Library timings and borrowing limits?",
+    "answer": "The Central Library operates from 8:00 AM to 9:00 PM on all weekdays, and from 9:00 AM to 5:00 PM on Saturdays and Sundays. Each undergraduate student can borrow up to 4 books for a 14-day duration, renewable once online. The Digital Library section offers 80 workstations with free access to IEEE Xplore, ScienceDirect, and ACM Digital Library.",
+    "keywords": ["library", "library timings", "book borrowing", "digital library", "ieee", "study hall"],
+    "teluguQuestion": "సెంట్రల్ లైబ్రరీ సమయాలు మరియు పుస్తకాలు తీసుకునే నిబంధనలు ఏమిటి?",
+    "teluguAnswer": "లైబ్రరీ సోమవారం నుండి శుక్రవారం వరకు ఉదయం 8:00 నుండి రాత్రి 9:00 వరకు తెరిచి ఉంటుంది. విద్యార్థులు గరిష్టంగా 4 పుస్తకాలను 14 రోజుల పాటు పొందవచ్చు. డిజిటల్ లైబ్రరీలో IEEE మరియు సైన్స్ డైరెక్ట్ యాక్సెస్ ఉంది.",
+    "verified": true,
+    "lastUpdated": "2026-09-12"
+  },
+  {
+    "id": "faq-fac-004",
+    "category": "College Facilities & Support",
+    "question": "How do I access campus Wi-Fi and student email accounts?",
+    "answer": "Each admitted student is issued an institutional email (rollnumber@student.college.edu) and campus Wi-Fi credentials during orientation. To connect, select 'Campus-Student-5G', enter your roll number as username and your default ERP password. For password resets or network connectivity issues, visit the Computer Center Helpdesk (Room CC-04) or email netadmin@college.edu.",
+    "keywords": ["wifi", "internet", "student email", "college email", "network", "password reset"],
+    "teluguQuestion": "కాలేజీ వైఫై మరియు స్టూడెంట్ ఈమెయిల్ ఎలా ఉపయోగించాలి?",
+    "teluguAnswer": "విద్యార్థులకు వారి రోల్ నంబర్‌తో కూడిన కాలేజీ ఈమెయిల్ ఐడీ ఇవ్వబడుతుంది. 'Campus-Student-5G' వైఫై నెట్‌వర్క్‌లో రోల్ నంబర్ మరియు పాస్‌వర్డ్‌తో లాగిన్ కావచ్చు.",
+    "verified": true,
+    "lastUpdated": "2026-09-12"
+  },
+  {
+    "id": "faq-fac-005",
+    "category": "College Facilities & Support",
+    "question": "What are the hostel rules, mess timings, and gate curfew?",
+    "answer": "Hostel gates close strictly at 8:30 PM on weekdays and 9:00 PM on weekends. Late entry requires prior written approval from the Chief Warden. Mess timings: Breakfast: 7:15 AM - 8:45 AM; Lunch: 12:15 PM - 1:45 PM; Snacks: 4:30 PM - 5:30 PM; Dinner: 7:30 PM - 9:00 PM. Night study halls remain open 24/7 during examination periods.",
+    "keywords": ["hostel", "mess timings", "curfew", "warden", "hostel rules", "gate timings", "dinner"],
+    "teluguQuestion": "హాస్టల్ నిబంధనలు, మెస్ సమయాలు మరియు గేట్ మూసివేత సమయం ఏమిటి?",
+    "teluguAnswer": "హాస్టల్ గేట్లు రాత్రి 8:30 గంటలకు మూసివేయబడతాయి. అల్పాహారం 7:15-8:45, లంచ్ 12:15-1:45, డిన్నర్ 7:30-9:00 గంటలకు ఉంటుంది. పరీక్షల సమయంలో స్టడీ హాల్స్ 24 గంటలు తెరిచి ఉంటాయి.",
+    "verified": true,
+    "lastUpdated": "2026-09-12"
+  },
+  {
+    "id": "faq-fac-006",
+    "category": "College Facilities & Support",
+    "question": "What is the procedure to contact the Training and Placement Cell?",
+    "answer": "The Training & Placement Cell (T&P) is located in the Administrative Block, 2nd Floor, Room AD-210. Students can register for campus placement drives starting from the 6th semester, provided they maintain a minimum CGPA of 6.5 with zero active backlogs. For internship endorsements or drive queries, email placements@college.edu or consult the student placement coordinators.",
+    "keywords": ["placement", "internship", "campus interview", "training cell", "jobs", "companies", "tpo"],
+    "teluguQuestion": "ప్లేస్‌మెంట్ సెల్‌ను ఎలా సంప్రదించాలి మరియు అర్హత ఏమిటి?",
+    "teluguAnswer": "ప్లేస్‌మెంట్ సెల్ అడ్మినిస్ట్రేటివ్ బ్లాక్ 2వ అంతస్తులో ఉంది. 6వ సెమిస్టర్ నుండి కనీసం 6.5 CGPA మరియు ఎలాంటి బ్యాక్‌లాగ్‌లు లేని విద్యార్థులు క్యాంపస్ ఇంటర్వ్యూలకు అర్హులు.",
+    "verified": true,
+    "lastUpdated": "2026-09-12"
+  },
+  {
+    "id": "faq-fac-007",
+    "category": "College Facilities & Support",
+    "question": "Where is the student health center / medical dispensary located?",
+    "answer": "The campus health center is situated adjacent to the Student Activity Center. A certified medical officer and nursing staff are on duty from 8:30 AM to 6:30 PM, with emergency ambulance services available 24/7 on call (+91-9876543210). Basic medications, first aid, and initial consultation are completely free for all enrolled students.",
+    "keywords": ["health center", "doctor", "dispensary", "medical emergency", "ambulance", "hospital", "medicine"],
+    "teluguQuestion": "కాలేజీ హెల్త్ సెంటర్ లేదా డిస్పెన్సరీ ఎక్కడ ఉంది?",
+    "teluguAnswer": "కళాశాల హెల్త్ సెంటర్ స్టూడెంట్ యాక్టివిటీ సెంటర్ పక్కన ఉంది. డాక్టర్ ఉదయం 8:30 నుండి సాయంత్రం 6:30 వరకు ఉంటారు. 24 గంటల అంబులెన్స్ సదుపాయం అందుబాటులో ఉంది.",
+    "verified": true,
+    "lastUpdated": "2026-09-12"
+  }
+]
